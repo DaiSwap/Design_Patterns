@@ -1,5 +1,5 @@
 
-package CreationalFactoryDesignPattern;
+package Excersize1.CreationalDesignPattern.CreationalFactoryDesignPattern;
 
 //Entry point
 public class Main {

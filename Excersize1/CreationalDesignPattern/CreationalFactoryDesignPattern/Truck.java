@@ -1,4 +1,4 @@
-package CreationalFactoryDesignPattern;
+package Excersize1.CreationalDesignPattern.CreationalFactoryDesignPattern;
 
 //Concrete Product
 public class Truck implements Transport {

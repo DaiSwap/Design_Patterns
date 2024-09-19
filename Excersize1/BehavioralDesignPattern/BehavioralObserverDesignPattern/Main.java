@@ -1,4 +1,4 @@
-package BehavioralDesignPattern.BehavioralObserverDesignPattern;
+package Excersize1.BehavioralDesignPattern.BehavioralObserverDesignPattern;
 
 public class Main {
     public static void main(String[] args) {

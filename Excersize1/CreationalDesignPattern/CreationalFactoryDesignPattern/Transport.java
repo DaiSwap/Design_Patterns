@@ -1,4 +1,4 @@
-package CreationalFactoryDesignPattern;
+package Excersize1.CreationalDesignPattern.CreationalFactoryDesignPattern;
 
 //Product interface
 public interface Transport {

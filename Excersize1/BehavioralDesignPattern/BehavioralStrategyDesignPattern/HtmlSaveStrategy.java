@@ -1,4 +1,4 @@
-package BehavioralDesignPattern.BehavioralStrategyDesignPattern;
+package Excersize1.BehavioralDesignPattern.BehavioralStrategyDesignPattern;
 
 public class HtmlSaveStrategy implements FileSaveStrategy {
     @Override

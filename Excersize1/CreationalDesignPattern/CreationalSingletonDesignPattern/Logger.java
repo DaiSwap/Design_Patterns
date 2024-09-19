@@ -1,4 +1,4 @@
-package CreationalSingletonDesignPattern;
+package Excersize1.CreationalDesignPattern.CreationalSingletonDesignPattern;
 
 public class Logger {
     private static Logger instance;

@@ -1,4 +1,4 @@
-package StructuralDesignPattern.StructuralDecoratorDesignPattern;
+package Excersize1.StructuralDesignPattern.StructuralDecoratorDesignPattern;
 
 public class SugarDecorator extends CoffeeDecorator {
     public SugarDecorator(Coffee coffee) {

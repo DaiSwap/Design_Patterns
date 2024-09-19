@@ -1,4 +1,4 @@
-package BehavioralDesignPattern.BehavioralObserverDesignPattern;
+package Excersize1.BehavioralDesignPattern.BehavioralObserverDesignPattern;
 
 public class Student implements Observer {
     private String name;
