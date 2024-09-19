@@ -1,0 +1,24 @@
+Mini_Project_Simulator/
+|-- src/
+    |-- main/
+        |-- java/
+            |-- Mini_Project_Simulator/
+                |-- Rocket.java
+                |-- LaunchState.java
+                |-- RocketStates/
+                    |-- PreLaunchState.java
+                    |-- FirstStageState.java
+                    |-- SecondStageState.java
+                    |-- OrbitAchievedState.java
+                    |-- MissionFailureState.java
+                |-- Observer/
+                    |-- Observer.java
+                    |-- MissionControl.java
+                |-- Strategy/
+                    |-- FuelStrategy.java
+                    |-- DefaultFuelStrategy.java
+                |-- Facade/
+                    |-- LaunchFacade.java
+                |-- Singleton/
+                    |-- RocketSingleton.java
+                |-- RocketLaunchSimulator.java
