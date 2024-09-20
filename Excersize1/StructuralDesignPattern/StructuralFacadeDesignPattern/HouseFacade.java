@@ -20,6 +20,6 @@ public class HouseFacade {
         appliances.turnOff();
         door.close();
         door.lock();
-        System.out.println("You have successfully left the house.");
+        System.out.println("You can successfully leave house now.");
     }
 }
