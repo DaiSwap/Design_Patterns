@@ -3,7 +3,7 @@ Here class explosion is occuring and thus here i have used the decorator design 
 It lets me attach new behaviors to objects by placing inside special wrapper objects which contain this behaviors.
 
 My approach for this -
-![UML-Diagram](UML.drawio (1).png)
+![UML-Diagram](UML.drawio.png)
 
 Output - 
 
