@@ -6,3 +6,7 @@ I took of an example where initially, my application supports only truck transpo
 
 The UML diagram explaining this scenario and my approach -
 ![UML Diagram](Excersize1\CreationalDesignPattern\CreationalFactoryDesignPattern\UML.drawio.png)
+
+Output is as - 
+
+![Output](Excersize1\CreationalDesignPattern\CreationalFactoryDesignPattern\Output.png)

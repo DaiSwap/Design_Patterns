@@ -1,7 +1,6 @@
 
 package Excersize1.CreationalDesignPattern.CreationalFactoryDesignPattern;
 
-//Entry point
 public class Main {
     public static void main(String[] args) {
         // Using TruckFactory to create a Truck
