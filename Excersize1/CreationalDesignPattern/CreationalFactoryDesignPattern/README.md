@@ -7,6 +7,7 @@ I took of an example where initially, my application supports only truck transpo
 The UML diagram explaining this scenario and my approach -
 ![UML Diagram](UML.drawio.png)
 
+
 Output is as - 
 
 ![Output](Output.png)
